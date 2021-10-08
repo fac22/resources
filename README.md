@@ -10,6 +10,9 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 ## Table of Contents
 
 - [JAVASCRIPT](./directory/JS.md)
+- [CSS](./directory/css.md)
+- [GitHub](./directory/gitHub.md)
+- [PostgreSQL](./directory/postgres.md)
 
 ---
 
