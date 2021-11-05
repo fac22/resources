@@ -1,0 +1,6 @@
+# Node
+
+| Link                                                                                                                                                                                                                   | Description                                                         | Added by                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------- |
+| `npm config set registry https://registry.npmjs.org/` <br>or `volta install npm@...` <br>check <https://stackoverflow.com/questions/69567381/getting-cannot-read-property-pickalgorithm-of-null-error-in-react-native> | can fix `npm install: Cannot read property ‘pickAlgorithm’ of null` | @[Barbara](https://github.com/0bubbles0) |
+|                                                                                                                                                                                                                        |                                                                     |                                          |
